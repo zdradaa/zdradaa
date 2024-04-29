@@ -3,4 +3,4 @@
 Full-Stack Engineer in the making.
 
 
-![zdradaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=zdradaa&theme=shadow_red&show_icons=true)
+![zdradaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=zdradaa&theme=github_dark&show_icons=true)
